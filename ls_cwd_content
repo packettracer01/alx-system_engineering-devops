@@ -1,0 +1,12 @@
+total 16
+drwxr-xr-x 7 root root  216 Apr  4 13:09 .
+drwx------ 1 root root  252 Apr  4 12:58 ..
+drwxr-xr-x 2 root root 4096 Mar 31 11:24 0x00-shell_basics
+drwxr-xr-x 2 root root 4096 Mar 31 13:20 0x01-shell_permissions
+drwxr-xr-x 2 root root  217 Apr  4 13:05 0x02-shell_redirections
+-rw-r--r-- 1 root root   38 Apr  4 11:19 \*\'Best
+-rw-r--r-- 1 root root   12 Apr  4 12:47 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+drwxr-xr-x 8 root root  201 Apr  4 12:48 .git
+-rwxr-xr-x 1 root root    0 Mar 31 07:28 hello
+-rw-r--r-- 1 root root    0 Apr  4 13:09 ls_cwd_content
+drwxr-xr-x 3 root root   16 Mar 30 16:30 welcome
